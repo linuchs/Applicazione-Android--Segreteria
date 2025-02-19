@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SEGRETERIA</string>
+    <string name="view_all">VEDI TUTTO</string>
+    <string name="add_new">AGGIUNGI NUOVO</string>
+    <string name="title_activity_movie_update_delete">MovieUpdateDeleteActivity</string>
+    <string name="type">Tipologia</string>
+    <string name="genre">Descrizione</string>
+    <string name="dates">Data</string>
+    <string name="notes">Note</string>
+    <string name="update">AGGIORNA</string>
+    <string name="delete">CANCELLA</string>
+    <string name="add">AGGIUNGI</string>
+</resources>
